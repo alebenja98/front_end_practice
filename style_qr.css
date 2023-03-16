@@ -1,0 +1,52 @@
+.body_class{
+    display: flex;
+    justify-content: center;
+    background-color: hsl(212, 45%, 89%);
+}
+
+
+
+.white_box {
+margin-top: 20px;
+background-color: white;
+width: 300px;
+height: 500px;
+border-radius: 20px;
+flex-direction: column;
+}
+
+
+.qr_img{
+    margin-top: 10px;
+    width: 280px;
+    height: 280px;
+    border-radius: 14px;
+}
+
+.blue_box{
+    display: flex;
+    justify-content: center;
+}
+
+
+.h1_style{
+    display: flex;
+    align-items: center;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+    text-align: center;
+    color:  hsl(218, 44%, 22%);
+    padding-right: 16px;
+    padding-left: 16px;
+}
+
+.parragraph_style{
+    text-align: center;
+    font-size: 15px;
+    color: hsl(220, 15%, 45%);
+    font-weight: 400;
+    font-family: Arial;
+    padding-right: 16px;
+    padding-left: 16px;
+}
